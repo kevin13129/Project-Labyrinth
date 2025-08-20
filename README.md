@@ -24,7 +24,7 @@ Here is the road map.
 - Write a shell script to configure the server.
 - Commit all code to this GitHub repository.
 
-# Technologies Used
+## Technologies Used
 * **Virtualization:** VirtualBox
 * **OS:** Ubuntu Server 24.04 LTS
 * **Web Server:** Nginx
