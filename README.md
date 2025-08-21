@@ -25,7 +25,7 @@ Here is the road map.
 - Commit all code to this GitHub repository.
 
 ## Technologies Used
-* **Virtualization:** VirtualBox
+* **Virtualization:** VMware Workstation
 * **OS:** Ubuntu Server 24.04 LTS
 * **Web Server:** Nginx
 * **Firewalls:** UFW, AWS Security Groups
