@@ -1,0 +1,6 @@
+1. Install Ubuntu and setup a virtual machine server.
+  - 
+
+2. run "sudo apt update && sudo apt upgrade -y " - This makes sure all software is up to date 
+
+3. Install Nginx. I decided to go with Nginx because its free and open souce. This will handle web traffic efficiently. 
