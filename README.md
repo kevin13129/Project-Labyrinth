@@ -6,7 +6,7 @@ Hello, and thank you for taking the time to view this! This is a personal educat
 Here is the road map. 
 
 ### Phase 1: Local Deployment (System Administrator) 
-- Install Ubuntu Server on a local VirtualBox VM.
+- Install Ubuntu Server on a local VMware Workstation.
 - Configure networking and firewall (`ufw`).
 - Install and verify Nginx web server.
 
