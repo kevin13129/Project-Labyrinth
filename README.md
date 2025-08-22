@@ -1,7 +1,7 @@
 # Project-Labyrinth
 A project to build, deploy and secure a live honeypot while touching on IT career paths. 
 
-Hello, and thank you for taking the time to view this! This is a personal educational project to build, deploy, secure, and automate a live honeypot. This project serves as a practical exploration of four key IT roles. System Admin, Cloud Engineer, Cybersecurity Engineer and Analyst, and DevOps Engineer, these are fields that interest me, and if they interest you too, you're more than welcome to follow along. We all start somewhere. 
+Hello, and thank you for taking the time to view this! This is a personal educational project to build, deploy, secure, and automate a live honeypot. This project serves as a practical exploration of four key IT roles. System Admin, Cloud Engineer, Cybersecurity Engineer and Analyst, and DevOps Engineer, these are fields that interest me, and if they interest you too, you're more than welcome to follow along. This is not an in-depth exploration of each role. I will be making one in the future, so stay tuned if you're interested in following along. This is a shallow overview of each role to provide a rough idea of what it can consist of. It's simple,e but we all start somewhere. 
 
 Here is the road map. 
 
